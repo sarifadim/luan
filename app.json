@@ -6,10 +6,10 @@
     "stack": "container",
     "env": {
       "c": {
-        "description": "coin crypto."
+        "description": "a"
       },
       "P": {
-        "description": "a b"
+        "description": "b"
       }
     }
   }
