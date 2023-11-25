@@ -8,8 +8,8 @@ nanti kalian tinggal forks edit sesuai keterangan di atas depoly di apps heroku
 
 Setelah nya silahkan ulik senidri
 
-![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)
-
+![Deploy to Heroku](https://dashboard.heroku.com/new?template=https://github.com/sarifadim/luan)
+https://dashboard.heroku.com/new?template=
 SUPPORT RAILWAY , AZURE , DO , GCP DLL
 
 # Thanks
